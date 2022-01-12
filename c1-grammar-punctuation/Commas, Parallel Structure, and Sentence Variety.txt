@@ -72,3 +72,10 @@ Q: True or false? You should only worry about sentence variety in the last stage
 
 ○ true
 false
+
+Q: All of the following are ways to create sentence variety in your writing EXCEPT which one?
+
+○ Avoid using transitions.
+Start some sentences with prepositional phrases.
+Start some sentences with adverbs.
+Use different sentence types like compound and complex.
