@@ -3,6 +3,11 @@ Q: Is the following sentence punctuated correctly? Frank bought a new dog and wa
 ○ Yes
 No
 
+Q: Is the following sentence punctuated correctly? Mary's parents took her to the park, and they invited all of her friends to her birthday party.
+
+○ Yes
+No
+
 Q: Is the following sentence punctuated correctly? The earthquake was felt 100 miles away; however, it did not wake me up.
 
 ○ Yes
