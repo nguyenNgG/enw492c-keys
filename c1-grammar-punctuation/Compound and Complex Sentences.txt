@@ -8,7 +8,22 @@ Q: Is the following sentence punctuated correctly? The earthquake was felt 100 m
 ○ Yes
 No
 
+Q: Is the following sentence punctuated correctly? When my husband gets home from work we will BBQ some steaks on the grill.
+
+○ No
+Yes
+
 Q: Is the following sentence punctuated correctly? While John was spending his summer working at a difficult job, Mark was enjoying himself at the pool.
+
+○ Yes
+No
+
+Q: Is the following sentence punctuated correctly? Jordan is a happy baby, because his parents play with him all the time.
+
+○ No
+Yes
+
+Q: Is the following sentence punctuated correctly? My brother likes tacos, but my sister does not like them.
 
 ○ Yes
 No
