@@ -13,6 +13,11 @@ Q: Is the following sentence punctuated correctly? Grandma can't drive anymore s
 ○ no
 yes
 
+Q: Is the following sentence punctuated correctly? My brother likes tacos, but my sister however does not like them.
+
+○ no
+yes
+
 Q: Is the following sentence punctuated correctly? For our vacation we plan to go to California or Washington, but we will wait until summer.
 
 ○ no
@@ -62,3 +67,8 @@ Q: True or false? Good writing uses lots of long sentences to create an academic
 
 ○ false
 true
+
+Q: True or false? You should only worry about sentence variety in the last stages of the writing process, in other words, when you're revising and editing your essay.
+
+○ true
+false
