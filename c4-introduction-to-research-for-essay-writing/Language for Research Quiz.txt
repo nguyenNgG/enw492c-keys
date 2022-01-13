@@ -33,6 +33,11 @@ Q: Is this word appropriate for an academic essay? therefore
 ○ Yes
 No
 
+Q: Is this word appropriate for an academic essay? dummy
+
+○ No
+Yes
+
 
 Q: True or False? You should use as many academic words as possible in your research paper even if you don't know what all of them mean.
 
