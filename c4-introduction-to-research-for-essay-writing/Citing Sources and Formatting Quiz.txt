@@ -6,8 +6,8 @@ It's a website that will create a Works Cited page or References list for you.
 
 Q: True or False? If you paste a link to your online source in the EasyBib website, EasyBib will always supply all of the information you need to format your Works Cited entry.
 
-True
 ○ False
+True
 
 Q: Use the following link to the Purdue Owl website and click on the appropriate tab on the left to answer questions about creating a Works Cited page for book sources. Purdue Owl MLA (https://owl.english.purdue.edu/owl/resource/747/01/) (This will open in a new window.) According to MLA 8th ed., which of the following is not a correctly formatted Works Cited entry for a book? 
 
@@ -29,9 +29,7 @@ B: "Deforestation: Solved via Carbon Markets?" Environmental Defense Fund, Envir
 C: Leroux, Marcel. Global Warming: Myth or Reality?: The Erring Ways of Climatology. Chichester, UK, Praxis Publishing Ltd, 2010.
 
 ○ A. article with an author from an electronic source & B. article with no author from an electronic source & C. printed book
-
 A. article with an author from an electronic source & B. interview from an electronic source & C. article with no author from an electronic source
-
 A. article with no author from an electronic source & B. article with an author from an electronic source & C. article with two authors from an electronic source
 
 Q: Use the following link to the Purdue Owl website and click on the MLA Works Cited Page: Other Common Sources tab on the left. Then scroll down to find the answer to the question below. Purdue Owl MLA (https://owl.english.purdue.edu/owl/resource/747/01/) (This will open in a new window.) According to MLA 8th ed., which kind of source is this?
